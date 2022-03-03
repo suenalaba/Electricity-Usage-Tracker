@@ -2,7 +2,7 @@
 """
 Created on Fri Feb 18 02:06:39 2022
 
-@author: Jiaxin
+@author: Joshua
 """
 
 from mainmenuhelper import updateElectricityPrice
